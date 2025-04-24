@@ -1,5 +1,5 @@
 # leetcodeSQL_practice
 SQL leetcode interview prep 
 
-This is my solution to leetcode practice questions 
+These are my solutions to LeetCode practice questions 
 
